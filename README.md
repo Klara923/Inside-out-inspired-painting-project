@@ -33,6 +33,6 @@ Once the dependencies are installed, you can start the development server with:
 
 Open [http://localhost:3000](http://localhost:3000) to view the project in the browser.
 
-##The deployed app
+## The deployed app
 
 https://inside-out-inspired-painting-projec-self.vercel.app/
