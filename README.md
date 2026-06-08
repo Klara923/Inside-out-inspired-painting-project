@@ -32,3 +32,7 @@ Once the dependencies are installed, you can start the development server with:
 ## yarn start
 
 Open [http://localhost:3000](http://localhost:3000) to view the project in the browser.
+
+##The deployed app
+
+https://inside-out-inspired-painting-projec-self.vercel.app/
